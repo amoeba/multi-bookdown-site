@@ -1,0 +1,9 @@
+{
+    "path" : "~/src/multi-bookdown-site",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
