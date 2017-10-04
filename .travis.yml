@@ -1,22 +1,19 @@
 language: r
 cache: packages
 branches:
-    only:
-        - source
+  only:
+  - master
 r_github_packages:
-    - rstudio/blogdown
-
+- rstudio/blogdown
 before_script:
-    - Rscript -e 'blogdown::install_hugo(version = "0.20.7")'
-
+- Rscript -e 'blogdown::install_hugo(version = "0.20.7")'
 script:
-    - Rscript -e 'blogdown::build_site()'
-
+- Rscript -e 'blogdown::build_site()'
 deploy:
-    provider: pages
-    skip_cleanup: true
-    github_token: $GITHUB_PAT
-    on:
-        branch: master
-    local_dir: public
-    target_branch: gh-pages
+  provider: pages
+  skip_cleanup: true
+  github_token: "$GITHUB_PAT"
+  on:
+    branch: master
+  local_dir: public
+  target_branch: gh-pages
