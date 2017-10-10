@@ -48,21 +48,13 @@ code {
   text-align: right;
 }
 
+.nav h1 {
+  display: inline;
+  margin: 0;
+}
+
 .nav-logo {
   float: left;
-  margin-top: -11px;
-  transition: transform 150ms ease-out;
-}
-
-.nav-logo:hover {
-  transform: scale(1.1);
-}
-
-.nav-logo img {
-  display: block;
-  max-height: 40px;
-  width: auto;
-  border-radius: 50%;
 }
 
 .nav-links {
@@ -81,12 +73,12 @@ code {
   margin-left: 0;
 }
 
-.nav-links a {
+.nav a {
   text-decoration: none;
   color: #111;
 }
 
-.nav-links a:hover {
+.nav a:hover {
   color: #000;
 }
 
@@ -249,14 +241,6 @@ code {
 @media (min-width: 600px) {
   .header {
     padding: 25px 0;
-  }
-
-  .nav-logo {
-    margin-top: -13px;
-  }
-
-  .nav-logo img {
-    max-height: 50px;
   }
 
   .nav-links {
