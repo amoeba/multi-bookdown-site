@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SASAP Training</title>
-    <link>/</link>
+    <link>/multi-bookdown-site/</link>
     <description>Recent content on SASAP Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/multi-bookdown-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/multi-bookdown-site/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>/about/</guid>
+      <guid>/multi-bookdown-site/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>
       <title>Open science for salmon</title>
-      <link>/trainings/training1/</link>
+      <link>/multi-bookdown-site/trainings/training1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/trainings/training1/</guid>
+      <guid>/multi-bookdown-site/trainings/training1/</guid>
       <description>Open science for salmon Practical open science approaches to salmon data management, analysis, and synthesis  November 28-29, 2017 Juneau, AK
  Open Science Tools to support synthesis of salmon data and management
  Effective data management for salmon data management, analysis, and synthesis

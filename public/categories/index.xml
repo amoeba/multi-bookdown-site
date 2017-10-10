@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on SASAP Training</title>
-    <link>/categories/</link>
+    <link>/multi-bookdown-site/categories/</link>
     <description>Recent content in Categories on SASAP Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/multi-bookdown-site/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

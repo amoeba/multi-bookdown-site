@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/multi-bookdown-site"
 languageCode = "en-us"
 title = "SASAP Training"
 theme = "hugo-lithium-theme"
