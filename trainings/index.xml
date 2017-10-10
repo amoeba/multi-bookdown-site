@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trainings on SASAP Training</title>
+    <link>/multi-bookdown-site/trainings/</link>
+    <description>Recent content in Trainings on SASAP Training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/multi-bookdown-site/trainings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open science for salmon</title>
+      <link>/multi-bookdown-site/trainings/open-science-for-salmon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/multi-bookdown-site/trainings/open-science-for-salmon/</guid>
+      <description>Open science for salmon Practical open science approaches to salmon data management, analysis, and synthesis  November 28-29, 2017 Juneau, AK
+ Open Science Tools to support synthesis of salmon data and management
+ Effective data management for salmon data management, analysis, and synthesis
+ Practical open science skills for salmon management
+ Series of open science training workshops targeting:
+ First workshop: Biostatisticians and modelers (this workshop, Juneau) Second workshop: Field biologists (Anchorage) Third workshop: TBD    Audience and background  Fish and Game UAF NOAA Fisheries  Registration instructions  Register online Space is limited to 20-25 people, so higher priority to earlier registrants If interest exceeds capacity, we waitlist and add to next workshop  Agenda (draft) Day 1, November 28, 2017  Welcome and introductions 30 mins Block 1</description>
+    </item>
+    
+  </channel>
+</rss>
