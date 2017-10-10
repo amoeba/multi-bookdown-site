@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>SASAP Training</title>
     <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on SASAP Training</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
@@ -18,6 +18,20 @@
       
       <guid>/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+    <item>
+      <title>Open science for salmon</title>
+      <link>/trainings/training1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/trainings/training1/</guid>
+      <description>Open science for salmon Practical open science approaches to salmon data management, analysis, and synthesis  November 28-29, 2017 Juneau, AK
+ Open Science Tools to support synthesis of salmon data and management
+ Effective data management for salmon data management, analysis, and synthesis
+ Practical open science skills for salmon management
+ Series of open science training workshops targeting:
+ First workshop: Biostatisticians and modelers (this workshop, Juneau) Second workshop: Field biologists (Anchorage) Third workshop: TBD    Audience and background  Fish and Game UAF NOAA Fisheries  Registration instructions  Register online Space is limited to 20-25 people, so higher priority to earlier registrants If interest exceeds capacity, we waitlist and add to next workshop  Agenda (draft) Day 1, November 28, 2017  Welcome and introductions 30 mins Block 1</description>
     </item>
     
   </channel>
