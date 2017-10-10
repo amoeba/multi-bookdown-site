@@ -13,9 +13,16 @@ canonifyURLs = true
 [[menu.main]]
     name = "Home"
     url = "/"
+    weight = 1
 [[menu.main]]
     name = "Trainings"
     url = "/trainings"
+    weight = 2
+[[menu.main]]
+    name = "Materials"
+    url = "/materials"
+    weight = 5
+    
 
 [params]
     description = "Training website for SASAP"

@@ -13,6 +13,10 @@
   </url>
   
   <url>
+    <loc>/multi-bookdown-site/materials/</loc>
+  </url>
+  
+  <url>
     <loc>/multi-bookdown-site/categories/</loc>
     <priority>0</priority>
   </url>
